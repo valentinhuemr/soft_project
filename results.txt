@@ -1,5 +1,0 @@
-Computer Name: DESKTOP-Q2LPNQL
-Date of Test: 2024-11-12 20:42:07
-Bubble Sort Time: 6.685661 seconds
-Quick Sort Time: 0.020246 seconds
-
